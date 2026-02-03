@@ -15,7 +15,7 @@ shortLabel Heart_CTCF_P0
 longLabel Heart_CTCF_P0_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -336,7 +336,7 @@ shortLabel Heart_H3K27ac_E10.5
 longLabel Heart_H3K27ac_E10.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -353,7 +353,7 @@ shortLabel Heart_H3K27ac_E11.5
 longLabel Heart_H3K27ac_E11.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -370,7 +370,7 @@ shortLabel Heart_H3K27ac_E12.5
 longLabel Heart_H3K27ac_E12.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -387,7 +387,7 @@ shortLabel Heart_H3K27ac_E13.5
 longLabel Heart_H3K27ac_E13.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -404,7 +404,7 @@ shortLabel Heart_H3K27ac_E14.5
 longLabel Heart_H3K27ac_E14.5_ChIP-seq_ENCODE4_signalPvalueProfile      
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -421,7 +421,7 @@ shortLabel Heart_H3K27ac_E15.5
 longLabel Heart_H3K27ac_E15.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -438,7 +438,7 @@ shortLabel Heart_H3K27ac_E16.5
 longLabel Heart_H3K27ac_E16.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -459,7 +459,7 @@ shortLabel Heart_H3K27me3_E10.5
 longLabel Heart_H3K27me3_E10.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -476,7 +476,7 @@ shortLabel Heart_H3K27me3_E11.5
 longLabel Heart_H3K27me3_E11.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -493,7 +493,7 @@ shortLabel Heart_H3K27me3_E12.5
 longLabel Heart_H3K27me3_E12.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -510,7 +510,7 @@ shortLabel Heart_H3K27me3_E13.5
 longLabel Heart_H3K27me3_E13.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -527,7 +527,7 @@ shortLabel Heart_H3K27me3_E14.5
 longLabel Heart_H3K27me3_E14.5_ChIP-seq_ENCODE4_signalPvalueProfile      
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -544,7 +544,7 @@ shortLabel Heart_H3K27me3_E15.5
 longLabel Heart_H3K27me3_E15.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -561,7 +561,7 @@ shortLabel Heart_H3K27me3_E16.5
 longLabel Heart_H3K27me3_E16.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -584,7 +584,7 @@ shortLabel Heart_H3K4me1_E10.5
 longLabel Heart_H3K4me1_E10.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -601,7 +601,7 @@ shortLabel Heart_H3K4me1_E11.5
 longLabel Heart_H3K4me1_E11.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -618,7 +618,7 @@ shortLabel Heart_H3K4me1_E12.5
 longLabel Heart_H3K4me1_E12.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -635,7 +635,7 @@ shortLabel Heart_H3K4me1_E13.5
 longLabel Heart_H3K4me1_E13.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -652,7 +652,7 @@ shortLabel Heart_H3K4me1_E14.5
 longLabel Heart_H3K4me1_E14.5_ChIP-seq_ENCODE4_signalPvalueProfile      
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -669,7 +669,7 @@ shortLabel Heart_H3K4me1_E15.5
 longLabel Heart_H3K4me1_E15.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -686,7 +686,7 @@ shortLabel Heart_H3K4me1_E16.5
 longLabel Heart_H3K4me1_E16.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -708,7 +708,7 @@ shortLabel Heart_H3K4me3_E10.5
 longLabel Heart_H3K4me3_E10.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -725,7 +725,7 @@ shortLabel Heart_H3K4me3_E11.5
 longLabel Heart_H3K4me3_E11.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -742,7 +742,7 @@ shortLabel Heart_H3K4me3_E12.5
 longLabel Heart_H3K4me3_E12.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -759,7 +759,7 @@ shortLabel Heart_H3K4me3_E13.5
 longLabel Heart_H3K4me3_E13.5_ChIP-seq_ENCODE4_signalPvalueProfile       
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -776,7 +776,7 @@ shortLabel Heart_H3K4me3_E14.5
 longLabel Heart_H3K4me3_E14.5_ChIP-seq_ENCODE4_signalPvalueProfile      
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -793,7 +793,7 @@ shortLabel Heart_H3K4me3_E15.5
 longLabel Heart_H3K4me3_E15.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -810,7 +810,7 @@ shortLabel Heart_H3K4me3_E16.5
 longLabel Heart_H3K4me3_E16.5_ChIP-seq_ENCODE4_signalPvalueProfile    
 type bigWig 0 10
 configurable on
-visibility dense
+visibility full
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
