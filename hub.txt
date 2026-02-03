@@ -1,0 +1,5 @@
+hub test_ENCODE_Tracks_CTCF+Histone Modifications
+shortLabel ENCODE_Tracks CTCF + H3K27ac + H3K4me3 + H3K4me1
+longLabel NCODE_Tracks CTCF + H3K27ac + H3K4me3 + H3K4me1 - Based on Matteo's Original Hub
+genomesFile genomes.txt
+email Ekapaksi.wisnumurti@unibe.ch
